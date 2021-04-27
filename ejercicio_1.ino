@@ -1,6 +1,6 @@
 void setup()
 {
-  //holis
+  //holis que onda 
   
   pinMode(3, INPUT); //define el pin 3 como entrada
   pinMode(2, OUTPUT); //define el pin 2 como salida
